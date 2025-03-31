@@ -37,7 +37,8 @@ The best model was a Random Forest:
   ![Model Accuracy Evaluation](images_readme/best_model_evaluation.png)
 
 ### Feature Importance
-The feature importance of our model is included below. The biggest takeaway was that with Machine Learning - DATA IS KING
+The feature importance of our model is included below. 
+
 ![Feature Importance](images_readme/feature_importances.png)
 
 ### UHI Prediction Heatmap
